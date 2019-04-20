@@ -33,7 +33,6 @@ setup(
         'test': [
             'pycodestyle',
             'pylint',
-            'pytest-cov',
         ],
     },
     classifiers=[
