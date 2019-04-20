@@ -9,7 +9,7 @@ with open(os.path.join(this_directory, 'README.md')) as f:
 
 setup(
     name='pytest-simple-settings',
-    version='0.1.1',
+    version='0.1.2',
     url='https://github.com/tkukushkin/pytest-simple-settings',
     author='Timofey Kukushkin',
     author_email='tima@kukushkin.me',
