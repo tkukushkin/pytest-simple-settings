@@ -1,6 +1,6 @@
 # pytest-simple-settings
 
-[![PyPI version](https://badge.fury.io/py/pytest-simple-settings.svg)](https://pypi.org/project/pytest-simple-settings/) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pytest-simple-settings.svg?color=green) [![Build Status](https://travis-ci.org/tkukushkin/pytest-simple-settings.svg?branch=master)](https://travis-ci.org/tkukushkin/pytest-simple-settings)
+[![PyPI version](https://badge.fury.io/py/pytest-simple-settings.svg)](https://pypi.org/project/pytest-simple-settings/) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pytest-simple-settings.svg?color=green) [![Build Status](https://github.com/tkukushkin/pytest-simple-settings/workflows/build/badge.svg?branch=master)](https://github.com/tkukushkin/pytest-simple-settings/actions?query=workflow%3Abuild+branch%3Amaster)
 
 ## Usage
 
