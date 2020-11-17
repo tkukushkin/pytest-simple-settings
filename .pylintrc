@@ -1,8 +1,9 @@
 [MESSAGES CONTROL]
 disable =
   missing-docstring,
-  useless-object-inheritance,
-  protected-access
+  protected-access,
+  super-with-arguments,
+  useless-object-inheritance
 
 [REPORTS]
 output-format = text
